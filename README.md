@@ -4,6 +4,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/University%20of%20Science-VNU--HCM-0A66C2?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  <a href="https://www.linkedin.com/in/t%C3%A0i-tr%E1%BA%A7n-b03350325/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:trantai3526@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=TranTai35&label=Profile%20views&color=58a6ff&style=for-the-badge" />
 </p>
 
@@ -176,12 +178,8 @@ A smart tourism web app that finds places, draws routes and chats with an LLM.
 
 <div align="center">
 
-<!-- Add your own links here, for example:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Your%20Name-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-id)
-[![Email](https://img.shields.io/badge/Email-you%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
--->
-Email: trantai3526@gmail.com
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-T%C3%A0i%20Tr%E1%BA%A7n-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/t%C3%A0i-tr%E1%BA%A7n-b03350325/)
+[![Email](https://img.shields.io/badge/Email-trantai3526%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trantai3526@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-TranTai35-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TranTai35)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=100&section=footer" width="100%" />
